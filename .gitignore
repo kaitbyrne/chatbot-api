@@ -1,0 +1,11 @@
+.idea/
+config/
+venv/
+skills/sent-analysis/
+train_data/
+
+model/checkpoints/
+model/en-us/
+model/language_files/
+model/processed/
+model/tensorboard/

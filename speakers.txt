@@ -1,0 +1,2 @@
+0,kait,kait0.wav|kait1.wav|kait3.wav|kait2.wav|kait6.wav|kait7.wav|kait5.wav|kait4.wav|kait9.wav|kait8.wav|kait10.wav|
+1,courtney,courtney2.wav|courtney3.wav|courtney1.wav|courtney0.wav|courtney4.wav|courtney5.wav|courtney7.wav|courtney6.wav|courtney8.wav|courtney9.wav|courtney10.wav|

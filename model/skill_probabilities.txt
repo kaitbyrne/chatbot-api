@@ -1,0 +1,230 @@
+Input Command: hello | Skill Found: date | Confidence: 0.800000
+Input Command: how are you? | Skill Found: date | Confidence: 0.800000
+Input Command: what time is it? | Skill Found: time | Confidence: 0.900000
+Input Command: hey there | Skill Found: date | Confidence: 0.800000
+Input Command: what's the date? | Skill Found: date | Confidence: 0.800000
+Input Command: hey there | Skill Found: goodbye | Confidence: 0.540000
+Input Command: hello | Skill Found: goodbye | Confidence: 0.540000
+Input Command: hey ther | Skill Found: goodbye | Confidence: 0.540000
+Input Command: hi | Skill Found: goodbye | Confidence: 0.540000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.764524
+Input Command: what's the temp? | Skill Found: weather | Confidence: 0.764524
+Input Command: What time is it? | Skill Found: time | Confidence: 1.000000
+Input Command: what's the date | Skill Found: weather | Confidence: 0.764524
+Input Command: what day is it today | Skill Found: date | Confidence: 0.696667
+Input Command: are there any news updates? | Skill Found: goodbye | Confidence: 0.540000
+Input Command: hey there | Skill Found: goodbye | Confidence: 0.547381
+Input Command: are there any news updates? | Skill Found: news | Confidence: 0.900000
+Input Command: are there any news updates? | Skill Found: news | Confidence: 0.900000
+Input Command: list my github repos | Skill Found: github_connect | Confidence: 1.000000
+Input Command: github repos | Skill Found: github_connect | Confidence: 1.000000
+Input Command: github repos | Skill Found: github_connect | Confidence: 1.000000
+Input Command: what notifications do I have from github | Skill Found: github_connect | Confidence: 1.000000
+Input Command: hi | Skill Found: goodbye | Confidence: 0.612500
+Input Command: what's up | Skill Found: hello | Confidence: 0.625000
+Input Command: what time is it | Skill Found: time | Confidence: 0.900000
+Input Command: what's the date | Skill Found: weather | Confidence: 0.621587
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.621587
+Input Command: what day is it | Skill Found: date | Confidence: 0.700000
+Input Command: are there anasdk | Skill Found: goodbye | Confidence: 0.612500
+Input Command: are there any news updates | Skill Found: news | Confidence: 0.800000
+Input Command: are there any news updates? | Skill Found: news | Confidence: 0.800000
+Input Command: cna you list my github repos? | Skill Found: github_connect | Confidence: 1.000000
+Input Command: thanks! | Skill Found: goodbye | Confidence: 0.612500
+Input Command: what da | Skill Found: hello | Confidence: 0.625000
+Input Command: what day is it? | Skill Found: date | Confidence: 0.700000
+Input Command: what's the weather? | Skill Found: weather | Confidence: 0.621587
+Input Command: how are you have me on can form news on see ya i'd hi list you what currently how are what me the the how | Skill Found: news | Confidence: 1.000000
+Input Command: hello are you it | Skill Found: hello | Confidence: 0.550000
+Input Command: are you | Skill Found: hello | Confidence: 0.537500
+Input Command: what's are | Skill Found: hello | Confidence: 0.625000
+Input Command:  | Skill Found: goodbye | Confidence: 0.612500
+Input Command: any jokes | Skill Found: goodbye | Confidence: 0.612500
+Input Command: any jokes | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.680079
+Input Command: me is you any fun facts funny | Skill Found: date | Confidence: 0.400000
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what time is it | Skill Found: time | Confidence: 1.000000
+Input Command: what's the day | Skill Found: weather | Confidence: 0.680079
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: any news updates | Skill Found: news | Confidence: 1.000000
+Input Command: what time is there | Skill Found: date | Confidence: 0.600000
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: do you know any jokes | Skill Found: jokes | Confidence: 0.533333
+Input Command: you know any jokes | Skill Found: jokes | Confidence: 0.533333
+Input Command: what weather a joke | Skill Found: hello | Confidence: 0.500000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.680079
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what's are | Skill Found: hello | Confidence: 0.500000
+Input Command: what's any news updates | Skill Found: news | Confidence: 0.900000
+Input Command: hello | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what for | Skill Found: hello | Confidence: 0.500000
+Input Command: what | Skill Found: hello | Confidence: 0.500000
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what's are | Skill Found: hello | Confidence: 0.500000
+Input Command: are there any news updates | Skill Found: news | Confidence: 1.000000
+Input Command: hello | Skill Found: goodbye | Confidence: 0.438011
+Input Command: read the | Skill Found: weather | Confidence: 0.597222
+Input Command: what time is it | Skill Found: time | Confidence: 1.000000
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: tell me a joke | Skill Found: jokes | Confidence: 0.626429
+Input Command: is on joke | Skill Found: date | Confidence: 0.300000
+Input Command: goodbye | Skill Found: goodbye | Confidence: 0.438011
+Input Command: goodbye | Skill Found: goodbye | Confidence: 0.438011
+Input Command: hello | Skill Found: goodbye | Confidence: 0.438011
+Input Command: are you read | Skill Found: jokes | Confidence: 0.533333
+Input Command: hi | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.680079
+Input Command: tell me a joke | Skill Found: jokes | Confidence: 0.626429
+Input Command:  | Skill Found: goodbye | Confidence: 0.438011
+Input Command: any news updates | Skill Found: news | Confidence: 1.000000
+Input Command: what's the date today | Skill Found: weather | Confidence: 0.680079
+Input Command: connect to what | Skill Found: weather | Confidence: 0.442857
+Input Command: connect to give | Skill Found: fun_facts | Confidence: 0.451667
+Input Command: what's the day | Skill Found: weather | Confidence: 0.680079
+Input Command: hello | Skill Found: goodbye | Confidence: 0.438011
+Input Command: what's the day | Skill Found: weather | Confidence: 0.680079
+Input Command: how are you | Skill Found: jokes | Confidence: 0.541667
+Input Command: what time is it | Skill Found: time | Confidence: 0.800000
+Input Command: what's the day | Skill Found: weather | Confidence: 0.632857
+Input Command:  | Skill Found: goodbye | Confidence: 0.347720
+Input Command: what day is it today | Skill Found: date | Confidence: 1.000000
+Input Command: what time is it | Skill Found: time | Confidence: 0.800000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.632857
+Input Command: tell me a joke | Skill Found: jokes | Confidence: 0.683333
+Input Command: any fun facts | Skill Found: goodbye | Confidence: 0.347720
+Input Command: tell me something interesting | Skill Found: jokes | Confidence: 0.683333
+Input Command: what's are you | Skill Found: github_connect | Confidence: 0.300000
+Input Command:  | Skill Found: goodbye | Confidence: 0.347720
+Input Command: what time is a are read are | Skill Found: time | Confidence: 0.500000
+Input Command: got what's the date today can you | Skill Found: date | Confidence: 0.333333
+Input Command: the what's the weather read me like what is for | Skill Found: weather | Confidence: 0.381667
+Input Command: i'd are what's up | Skill Found: hello | Confidence: 0.500000
+Input Command: let's chat | Skill Found: goodbye | Confidence: 0.347720
+Input Command:  | Skill Found: goodbye | Confidence: 0.347720
+Input Command: what | Skill Found: hello | Confidence: 0.500000
+Input Command: let's chat | Skill Found: goodbye | Confidence: 0.347720
+Input Command: what's chat | Skill Found: chat | Confidence: 0.500000
+Input Command: do are you | Skill Found: ron_swanson | Confidence: 0.500000
+Input Command: what news read me what's what's can you currently chat for is hear a fun can we is what's talk | Skill Found: news | Confidence: 0.500000
+Input Command: there on what's to we chat what's the day | Skill Found: chat | Confidence: 0.400000
+Input Command: what's chat ya what time | Skill Found: chat | Confidence: 0.500000
+Input Command: what's ya | Skill Found: hello | Confidence: 0.233333
+Input Command: what's share | Skill Found: hello | Confidence: 0.233333
+Input Command: what's time | Skill Found: time | Confidence: 0.700000
+Input Command: what's time | Skill Found: time | Confidence: 0.700000
+Input Command: tell a fact | Skill Found: fun_facts | Confidence: 0.600000
+Input Command: let's talk | Skill Found: chat | Confidence: 1.000000
+Input Command: want let's talk | Skill Found: chat | Confidence: 0.900000
+Input Command: let's talk | Skill Found: chat | Confidence: 1.000000
+Input Command: what's i have | Skill Found: ron_swanson | Confidence: 0.300000
+Input Command: read want let's talk | Skill Found: news | Confidence: 0.300000
+Input Command: read let's talk | Skill Found: chat | Confidence: 0.800000
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: let's chat form | Skill Found: chat | Confidence: 1.000000
+Input Command: do what's chat | Skill Found: chat | Confidence: 0.500000
+Input Command: hey | Skill Found: hello | Confidence: 0.433333
+Input Command: are you | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: do what's chat | Skill Found: chat | Confidence: 0.500000
+Input Command: connect got | Skill Found: jokes | Confidence: 0.800000
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: i'd let's chat time | Skill Found: chat | Confidence: 0.700000
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: let's chat | Skill Found: chat | Confidence: 1.000000
+Input Command: what's chat | Skill Found: chat | Confidence: 0.500000
+Input Command: what's the news | Skill Found: news | Confidence: 0.400000
+Input Command: connect see on | Skill Found: goodbye | Confidence: 0.860000
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what time is it | Skill Found: time | Confidence: 0.900000
+Input Command: let's chat | Skill Found: chat | Confidence: 1.000000
+Input Command: what's the date | Skill Found: weather | Confidence: 0.725278
+Input Command: there on what's the weather | Skill Found: hello | Confidence: 0.240000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: hey what up | Skill Found: hello | Confidence: 0.466667
+Input Command: hey what up | Skill Found: hello | Confidence: 0.466667
+Input Command: what%are my github notifications | Skill Found: github_connect | Confidence: 0.700000
+Input Command: 53w5 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test2 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test2 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: can you give me a news update | Skill Found: news | Confidence: 0.500000
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: trying to ask what the weather is | Skill Found: ron_swanson | Confidence: 0.600000
+Input Command: what is the weather? | Skill Found: time | Confidence: 0.400000
+Input Command: what is the time? | Skill Found: time | Confidence: 0.700000
+Input Command: cool good job | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what? | Skill Found: hello | Confidence: 0.233333
+Input Command: trying to ask a question | Skill Found: github_connect | Confidence: 0.400000
+Input Command: can you tell me the news? | Skill Found: news | Confidence: 0.500000
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test2 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: hm | Skill Found: goodbye | Confidence: 0.618333
+Input Command: hm | Skill Found: goodbye | Confidence: 0.618333
+Input Command: hm | Skill Found: goodbye | Confidence: 0.618333
+Input Command: hm | Skill Found: goodbye | Confidence: 0.618333
+Input Command: hm | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: tes | Skill Found: goodbye | Confidence: 0.618333
+Input Command: tset | Skill Found: goodbye | Confidence: 0.618333
+Input Command: set | Skill Found: goodbye | Confidence: 0.618333
+Input Command: aksdf | Skill Found: goodbye | Confidence: 0.618333
+Input Command: knda | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test2 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test2 | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: hey what's the weather | Skill Found: ron_swanson | Confidence: 0.300000
+Input Command: okay can I do saline twice | Skill Found: ron_swanson | Confidence: 0.300000
+Input Command: okay what's the weather | Skill Found: hello | Confidence: 0.206667
+Input Command: can I ask you something else | Skill Found: ron_swanson | Confidence: 0.300000
+Input Command: what's the weather? | Skill Found: weather | Confidence: 0.725278
+Input Command: hey what time is it | Skill Found: date | Confidence: 0.400000
+Input Command: that's a date not the time | Skill Found: time | Confidence: 0.400000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: do you have any news updates | Skill Found: news | Confidence: 0.500000
+Input Command: that's not what I said | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: driving to get home notifications | Skill Found: ron_swanson | Confidence: 0.500000
+Input Command: do I have any GitHub notifications | Skill Found: github_connect | Confidence: 1.000000
+Input Command: traveling GitHub notifications | Skill Found: github_connect | Confidence: 1.000000
+Input Command: regarding | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what are my GitHub notifications | Skill Found: github_connect | Confidence: 0.700000
+Input Command: are you talking to me | Skill Found: fun_facts | Confidence: 0.300000
+Input Command: hello | Skill Found: hello | Confidence: 0.790000
+Input Command: hey what's the weather | Skill Found: ron_swanson | Confidence: 0.300000
+Input Command: okay do you know what time it is | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: yeah it's not responding for some reason | Skill Found: goodbye | Confidence: 0.401667
+Input Command: do you have a funny joke | Skill Found: ron_swanson | Confidence: 0.500000
+Input Command: what's the news | Skill Found: news | Confidence: 0.400000
+Input Command: sorry I don't know just not getting responses like it's just not learning from these | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: do you have a joke for me | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: I don't know that's not something up but | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: orange presidential today | Skill Found: goodbye | Confidence: 0.418333
+Input Command: I have a ton I can go through so | Skill Found: goodbye | Confidence: 0.308333
+Input Command: what time is it? | Skill Found: time | Confidence: 0.900000
+Input Command: what's the weather? | Skill Found: weather | Confidence: 0.725278
+Input Command: what is the weather | Skill Found: time | Confidence: 0.400000
+Input Command: what is the weather | Skill Found: time | Confidence: 0.400000
+Input Command: what time is it | Skill Found: time | Confidence: 0.900000
+Input Command: do you know what the weather is | Skill Found: ron_swanson | Confidence: 0.400000
+Input Command: what is the temperature in Chicago | Skill Found: ron_swanson | Confidence: 0.500000
+Input Command: the weather | Skill Found: goodbye | Confidence: 0.376667
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: tell me a joke | Skill Found: jokes | Confidence: 0.900000
+Input Command: tell me a joke | Skill Found: jokes | Confidence: 0.900000
+Input Command: tell me something interesting | Skill Found: jokes | Confidence: 0.600000
+Input Command: hey | Skill Found: hello | Confidence: 0.433333
+Input Command: bye | Skill Found: goodbye | Confidence: 0.618333
+Input Command: applications do I have | Skill Found: github_connect | Confidence: 0.300000
+Input Command: no no what notifications do I have | Skill Found: ron_swanson | Confidence: 0.500000
