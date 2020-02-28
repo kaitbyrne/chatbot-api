@@ -228,3 +228,69 @@ Input Command: hey | Skill Found: hello | Confidence: 0.433333
 Input Command: bye | Skill Found: goodbye | Confidence: 0.618333
 Input Command: applications do I have | Skill Found: github_connect | Confidence: 0.300000
 Input Command: no no what notifications do I have | Skill Found: ron_swanson | Confidence: 0.500000
+Input Command: hello there | Skill Found: hello | Confidence: 0.390000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: is there any news tonight? | Skill Found: news | Confidence: 0.700000
+Input Command: what time is it? | Skill Found: time | Confidence: 0.900000
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: what's the weather outside | Skill Found: weather | Confidence: 0.725278
+Input Command: what time is it | Skill Found: time | Confidence: 0.900000
+Input Command: chimney jokes | Skill Found: goodbye | Confidence: 0.618333
+Input Command: okay bye | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333
+Input Command: what's the weather | Skill Found: weather | Confidence: 0.725278
+Input Command: what time is it | Skill Found: time | Confidence: 0.900000
+Input Command: undefined | Skill Found: goodbye | Confidence: 0.618333
+Input Command: undefined | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command:  | Skill Found: goodbye | Confidence: 0.618333
+Input Command: test | Skill Found: goodbye | Confidence: 0.618333

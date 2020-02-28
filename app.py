@@ -7,20 +7,20 @@ from main import base_skill_finder
 app = Flask(__name__)
 
 
-@app.route("/")
+@app.route('/')
 def hello():
-    return "Hello World!"
+    return "Hello"
 
 
-@app.route("/currentUser")
+@app.route('/currentUser', methods=['GET'])
 def current_user():
     response = flask.jsonify({'username': 'Kait'})
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response, 200
 
 
-@app.route("/interpretText", methods=['GET'])
-def interpret_text():
+@app.route("/askQuestion", methods=['GET'])
+def ask_question():
     user_input = request.args.get('userInput', type=str)
     found_skill = find_skill(user_input)
     output = base_skill_finder(found_skill, user_input)
